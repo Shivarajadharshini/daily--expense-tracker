@@ -1,0 +1,30 @@
+📊 Daily Expense Tracker
+
+A simple and efficient web-based application to track daily income and expenses. This project helps users manage their personal finances by recording transactions and monitoring overall balance.
+
+✨ Features
+➕ Add income and expense entries
+🗂️ Categorize transactions (Food, Travel, Shopping, etc.)
+💰 View total balance, income, and expenses
+🧾 Easy-to-use interface
+📱 Lightweight and fast performance
+🎯 Objective
+
+The main goal of this project is to help users track their daily spending habits and improve financial management skills while practicing web development concepts.
+
+🛠️ Technologies Used
+HTML
+CSS
+JavaScript (update if you used other languages like Python/Java)
+🚀 How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/daily-expense-tracker.git
+Open the project folder
+Run index.html in your browser
+            📈 Future Improvements
+Add database support (MySQL / Firebase)
+Monthly expense reports
+Graphical analytics using charts
+User login system
